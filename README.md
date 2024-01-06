@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mannat Aggarwal</h1>
 <h3 align="center">A passionate web developer</h3>
 
-- 🌱 I’m currently learning **DSA, Java**
+- 🌱 I’m currently enhancing my skills in **DSA**
 
-- 💬 Ask me about **C, C++, Web Development**
+- 💬 Ask me about **C, C++, Web Development, Java**
 
 - 📫 How to reach me **mannataggarwal.205@gmail.com**
-
-- ⚡ Fun fact **I think I am the best dancer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
